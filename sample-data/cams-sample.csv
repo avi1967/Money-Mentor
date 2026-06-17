@@ -1,0 +1,7 @@
+fund,date,amount,currentValue,amc,expenseRatio,holdings
+Alpha Large Cap Fund,2022-04-10,300000,420000,AMC-A,1.6,"Reliance,HDFC,Infosys,ICICI Bank"
+Prime Bluechip Fund,2023-01-12,250000,315000,AMC-B,1.5,"Reliance,HDFC,Infosys,TCS"
+India Top 100 Fund,2021-09-20,400000,590000,AMC-C,1.7,"Reliance,HDFC,Infosys,L&T"
+Balanced Advantage Fund,2023-11-15,200000,218000,AMC-A,1.2,"HDFC Bank,ITC,NTPC"
+Midcap Opportunities Fund,2022-08-03,180000,260000,AMC-D,1.4,"Trent,Polycab,Coforge"
+International Index Fund,2024-02-01,120000,136000,AMC-B,0.9,"Apple,Microsoft,NVIDIA"
